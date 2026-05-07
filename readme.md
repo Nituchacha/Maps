@@ -207,8 +207,8 @@ india-census-explorer/
 ## 👤 Author
 
 **Your Name**  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
+📧 nitishrathore2006@gmail.com 
+
 
 ---
 
